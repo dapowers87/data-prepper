@@ -29,7 +29,7 @@ dependencies {
     testImplementation 'org.assertj:assertj-core:3.22.0'
     testImplementation "org.mockito:mockito-inline:${versionMap.mockito}"
     testImplementation "org.hamcrest:hamcrest:2.2"
-    testImplementation("commons-io:commons-io:2.10.0")
+    testImplementation("commons-io:commons-io:2.11.0")
 }
 
 jacocoTestCoverageVerification {
